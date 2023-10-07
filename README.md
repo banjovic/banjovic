@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/banjovictoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="banjovictoria" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/victoria-banjo-a7590853/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victoria-banjo-a7590853/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/victoria-banjo-a7590853/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victoria-banjo-a7590853/" height="30" width="40" /></a>
 <a href="https://fb.com/vbanj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vbanj" height="30" width="40" /></a>
 <a href="https://instagram.com/_banjovictoria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_banjovictoria" height="30" width="40" /></a>
 <a href="https://medium.com/@banjovictoria25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@banjovictoria25" height="30" width="40" /></a>
