@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <h1 align="center">Hi 👋, I'm Victoria Banjo</h1>
 <h3 align="center">A passionate progressive Frontend Developer from Lagos, Nigeria.</h3>
-<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+<img align="left" alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banjovic&label=Profile%20views&color=0e75b6&style=flat" alt="banjovic" /> </p>
