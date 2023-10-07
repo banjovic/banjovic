@@ -1,12 +1,7 @@
-### Hi there 👋
-
-<!--
-**banjovic/banjovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![MasterHead](https://pin.it/2qsFVya)]
+[![MasterHead](https://tenor.com/bylun.gif)]
 <h1 align="center">Hi 👋, I'm Victoria Banjo</h1>
 <h3 align="center">A passionate progressive Frontend Developer from Lagos, Nigeria.</h3>
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/1u01IRKm3cKUH4GU1U/video" width="480"></iframe></div>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banjovic" alt="banjovic" /></a> </p>
 
