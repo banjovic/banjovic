@@ -1,7 +1,10 @@
-[![MasterHead](https://tenor.com/bylun.gif)]
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <h1 align="center">Hi 👋, I'm Victoria Banjo</h1>
 <h3 align="center">A passionate progressive Frontend Developer from Lagos, Nigeria.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=banjovic&label=Profile%20views&color=0e75b6&style=flat" alt="banjovic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banjovic" alt="banjovic" /></a> </p>
 
@@ -28,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=banjovic&show_icons=true&locale=en" alt="banjovic" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banjovic&" alt="banjovic" /></p>
-
