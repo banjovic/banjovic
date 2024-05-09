@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 <h1 align="center">I'm Victoria Banjo</h1>
-<h3 align="center">A dedicated Front-End Developer passionate about creating impactful web applications. With a focus on excellence and a knack for collaboration, I thrive in dynamic environments. Proficient in React, Redux, and Next.js, I craft tailored solutions to meet diverse project needs. Based in Lagos, Nigeria, I'm committed to pushing boundaries and delivering results. <br/>
+<h4 align="center">A dedicated Front-End Developer passionate about creating impactful web applications. With a focus on excellence and a knack for collaboration, I thrive in dynamic environments. <br/>Proficient in React, Redux, and Next.js, I craft tailored solutions to meet diverse project needs. <br/><br/>Based in Lagos, Nigeria, I'm committed to pushing boundaries and delivering results. <br/><br/>
 
 Feel free to connect with me at banjovictoria25@gmail.com to discuss potential collaborations.</h3>
 <img align="left" alt="Coding" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
